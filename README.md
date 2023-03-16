@@ -12,4 +12,4 @@
 **sqlite-sample-database-color.jpg:** Contains the DB Schema Diagram of DB sqlitetutorial_sampledb.db  
 **sqlalchemy.ipynb:** uses sqlitetutorial_sampledb.db for sql alchemy training  
 
-**ooo.ipynb:** Object Oriented Programming Training  
+**oop.ipynb:** Object Oriented Programming Training  
