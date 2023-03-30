@@ -13,3 +13,5 @@
 **sqlalchemy.ipynb:** uses sqlitetutorial_sampledb.db for sql alchemy training  
 
 **oop.ipynb:** Object Oriented Programming Training  
+
+**numpy.ipynb:** Some basic numpy functions that are used in deep learning
